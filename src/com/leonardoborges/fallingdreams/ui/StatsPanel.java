@@ -1,7 +1,6 @@
 package com.leonardoborges.fallingdreams.ui;
 
 import java.awt.Color;
-import java.awt.Desktop;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Graphics;

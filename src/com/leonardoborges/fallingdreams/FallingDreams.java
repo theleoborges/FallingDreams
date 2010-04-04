@@ -1,11 +1,6 @@
 package com.leonardoborges.fallingdreams;
 
 import java.awt.BorderLayout;
-import java.awt.Dimension;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
-
-import javax.swing.JFrame;
 
 import com.leonardoborges.fallingdreams.models.Matrix;
 import com.leonardoborges.fallingdreams.ui.MainFrame;

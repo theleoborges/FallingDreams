@@ -6,6 +6,7 @@ FallingDreams is a Tetris clone that allowed me the experience of going through 
 
 === Building 
 
+You'll need at least JDK 6 to build and run the project.
 Just run ant from the project root and it will create a runnable jar file with the game.
 
 Enjoy :)
